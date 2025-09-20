@@ -68,7 +68,7 @@
 
 <h2 style="margin: 5px 10px; color: #9B5DE5;">✨ Estadísticas de GitHub ✨</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=vickylopez2828&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5&text_color=ffffff&bg_color=000000)](https://github.com/vickylopez2828)
+![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickylopez2828&show_icons=true&theme=tokyonight&hide_rank=true&title_color=9B5DE5&icon_color=9B5DE5&border_color=9B5DE5&text_color=ffffff&bg_color=000000)
 
 ---
 
