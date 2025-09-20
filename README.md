@@ -77,10 +77,6 @@
 - 🌐 [Portfolio](https://victorialopez.netlify.app/)  
 - 📧 vicky_lopez_28@gmail.com
 
----
-
-📌 **Última edición:** 20/09/2025
-
 
 
 
