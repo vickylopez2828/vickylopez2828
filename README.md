@@ -75,7 +75,7 @@
 📫 **Cómo contactarme**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vlopez2828/)  
 - 🌐 [Portfolio](https://victorialopez.netlify.app/)  
-- 📧 vicky_lopez_28@gmail.com
+- 📧 vickylopez2828@gmail.com
 
 
 
