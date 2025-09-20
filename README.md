@@ -18,7 +18,7 @@
 ## ⚡ Sobre mí
 
 <!-- Imagen a la derecha del texto (cámbiala por tu ruta en el repo) -->
-<img src="assets/mujerprog.png" alt="Programadora" width="220" align="right" style="margin-left:16px; margin-bottom:10px;">
+<img src="mujerprog.png" alt="Programadora" width="220" align="right" style="margin-left:16px; margin-bottom:10px;">
 
 - 🎓 Egresada como **Técnica en Desarrollo de Aplicaciones** con formación fullstack. Actualmente con foco en **Frontend**.  
 - 🚀 He trabajado en proyectos reales con equipos interdisciplinarios.  
