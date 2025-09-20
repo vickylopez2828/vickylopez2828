@@ -1,22 +1,31 @@
-
 <h1 align="center"><b>Hola, soy Victoria López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<!-- más aire arriba y abajo del typing -->
+<p align="center" style="margin: 12px 0 18px 0;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9B5DE5&size=24&center=true&vCenter=true&width=600&height=60&lines=Desarrolladora+Frontend;Técnica+Universitaria+en+Desarrollo;Desarrolladora+Web;Siempre+aprendiendo+y+creciendo+🚀">
+    <!-- letra más informal: Poppins (mejor legible que handwriting) -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=9B5DE5&size=26&center=true&vCenter=true&width=680&height=70&lines=Desarrolladora+Frontend;T%C3%A9cnica+Universitaria+en+Desarrollo+de+Aplicaciones;Desarrolladora+Web;Siempre+aprendiendo+y+creciendo+🚀">
   </a>
 </p>
 
-🎨 Frontend Developer | 💻 Apasionada por crear interfaces modernas e intuitivas  
-Enfocada en **React, TypeScript, Tailwind CSS y diseño UX/UI**.  
+<p align="center" style="margin: 6px 0 0 0;">
+  🎨 Frontend Developer | 💻 Apasionada por crear interfaces modernas e intuitivas<br/>
+  Enfocada en <b>React, TypeScript, Tailwind CSS y diseño UX/UI</b>.
+</p>
 
 ---
 
 ## ⚡ Sobre mí
-- 🎓 Egresada como Técnica en Desarrollo de Aplicaciones con formación fullstack. Actualmente con foco en **Frontend**.  
+
+<!-- Imagen a la derecha del texto (cámbiala por tu ruta en el repo) -->
+<img src="assets/mujerprog.png" alt="Programadora" width="220" align="right" style="margin-left:16px; margin-bottom:10px;">
+
+- 🎓 Egresada como **Técnica en Desarrollo de Aplicaciones** con formación fullstack. Actualmente con foco en **Frontend**.  
 - 🚀 He trabajado en proyectos reales con equipos interdisciplinarios.  
 - 🌱 Me gusta mantenerme en constante aprendizaje, explorando nuevas librerías y buenas prácticas de UI.  
 - 💡 Busco aportar valor a equipos con mi **creatividad, dedicación y enfoque en la experiencia de usuario**.  
+
+<br clear="right"/>
 
 ---
 
@@ -57,9 +66,9 @@ Enfocada en **React, TypeScript, Tailwind CSS y diseño UX/UI**.
 
 ---
 
-<h2 style="margin: 5px 10px; color: #9B5DE5;">✨ Estadísticas de GitHub ✨</h2> 
+<h2 style="margin: 5px 10px; color: #9B5DE5;">✨ Estadísticas de GitHub ✨</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=vickylopez2828&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5&text_color=ffffff&bg_color=000000)](https://github.com/vickylopez2828)  
+[![](https://github-readme-stats.vercel.app/api?username=vickylopez2828&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5&text_color=ffffff&bg_color=000000)](https://github.com/vickylopez2828)
 
 ---
 
